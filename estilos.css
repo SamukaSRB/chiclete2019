@@ -1,0 +1,20 @@
+.textExtrada{
+border-radius: 25px;   
+  width:170px;
+  height:70px; 
+}
+.info{
+border-radius: 25px;   
+  width:300px;
+  height:70px; 
+}
+.btn-info{
+background:#B22222;
+border-radius: 25px;   
+
+}
+.info{
+font-size: 30px;
+color:#00B2EE;
+
+}
